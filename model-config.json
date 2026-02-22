@@ -1,0 +1,14 @@
+{
+  "name": "Prunnerai 3B V.1.0",
+  "description": "Forked model: Prunnerai 3B V.1.0",
+  "base_model": "custom/scratch",
+  "endpoint_url": "",
+  "model_name": "",
+  "temperature": 0.7,
+  "max_tokens": 4096,
+  "context_length": 32768,
+  "quantization": "q4_0",
+  "enable_rag": true,
+  "enable_finetuning": true,
+  "system_prompt": "You are a specialized AI assistant powered by PrunerAI."
+}
